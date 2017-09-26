@@ -23,12 +23,6 @@ init:
 # clone directory
 clone_folder: C:\projects\thyme
 
-# branches to build
-branches:
-  # whitelist
-  only: 
-    - master
-
 skip_commits:
   files:
     - docs/*
